@@ -10,4 +10,7 @@ https://docs.google.com/document/d/14BhKLYXM-ajI4EVEl4aMY3Ia5A0rVGs9qCK_tD5SXpE
   
 Brigade Profile  
 https://docs.google.com/document/d/11vDi4RYpSwDfzcw9cV0kQi5imX7iCenq4I5-LtnQJBA  
-
+  
+Not a github user? You can also email suggestions/updates to blordcastillo@gmail.com  
+  
+  
