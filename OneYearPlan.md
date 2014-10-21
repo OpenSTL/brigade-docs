@@ -27,13 +27,13 @@ We can provide policy advice, outreach to the community, and the technical exper
 Alignment with Code for America Strategic Outcomes  
   
 Governments leveraging technology more effectively  
-?  
+We are working with MetroTransit to release real-time bus and train locations using the GTFS-realtime.
 Citizens and community groups solving civic issues  
-?  
+Build4STL is a National Day of Civic Hacking event. It includes 2 hackathons for creating civic projects; one for youth and one for adults. Also included are multiple training sessions in open data and entrepreneurial skills and topics, a documentary with discussion, a community garden, and more. We partnered with multiple different organiations.
 Cities collaborating to work better  
 ?  
 Civic apps built on linked, open data  
-?  
+We are working with Plenar.io to host many Saint Louis City and County datasets in a format that is easily accessible for both visualization and download.
 Objectives  
 Draft and institute an open data policy the St Louis County Executive’s Office.  
 Draft and institute an open data policy with the City of St Louis Mayor’s Office.  
@@ -48,7 +48,8 @@ Structural changes in government
 Reusing civic apps  
 ?  
 Opening civic data  
-?  
+MetroTransit GTFS-realtime
+Personal and Political Subdivision Financial Disclosure statements for Saint Louis City are being digitized and made available in a more accessible format
 Active brigade members  
 ?  
 Structure  
